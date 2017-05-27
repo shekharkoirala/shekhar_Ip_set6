@@ -1,0 +1,14 @@
+As a consultant/PM to develop a mobile app or a website for the startup.
+I would choose Agile Mode of Development for the Mobile/Website app. As my client is a startup client, There is various rulling factor like Time, design change, requirement change etc
+Startups are generally small and innovative and need changes in their services according to time and their customer. They generally found to be changing plan and policies which is easily handled using Agile Mode of development.
+Agile Mode have many deployment cycle  with testing software, assuring quality assurance of the final output. This mode also help client to evaluate how small changes in solution affect their company performance.
+
+For Planning for website/application,
+Planning should include everything that would assist developer for their work. It should include following things 
+1. What type of E-commerce it is planning, payment method, detail of policies of e-commerce adopted by the company 
+2. layout of whole website, it's logo, color selection for different sections. It should also focus on which sections are more used by the customer( or we are focusing)  and creating layout according to it. 
+3. How the content of website is updated, since it is design industry which need regular update
+4. What are the unique feature that need to be highlighted or focused in the solution. It is very crucial to stand out in the crowd of startup
+5. Timing for the Project, in how much duration, they need this solution ready
+6. Database and server processing system and their expected views, clicks and server load of their customer.
+
