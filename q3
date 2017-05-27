@@ -1,8 +1,0 @@
-#This is the set of test scenarios which is applied in the the application for testing
-#here two list are created in which list #input contain the set of lists in which first number in the list is 
-#input 1 and 2nd number is input2 
-
-input = [[5,4],[5,0],[0,0], [3227,55],[12131243252521244214,4], [342141,65]]
-
-#similarly the result is tested with the following list of output
-output = [1.25,'infinity','undetermined',5.8144144144144144 ,3.032810813×10¹⁸, 5263.707692308]
